@@ -272,9 +272,9 @@ Model performance on the **fixed RealWaste holdout test set**:
 
 | Model | Accuracy | Macro F1-Score |
 |---|---|---|
-| ResNet-18 | — | — |
-| EfficientNet-B0 | — | — |
-| EfficientNet-B0 (Progressive) | — | — |
+| ResNet-18 | %76.9 | %60.9 |
+| EfficientNet-B0 | %83.4 | %66.7 |
+| EfficientNet-B0 (Progressive) | %84.8 | %75.4 |
 
 > *Run the evaluation script to fill in the results for your trained models.*
 
